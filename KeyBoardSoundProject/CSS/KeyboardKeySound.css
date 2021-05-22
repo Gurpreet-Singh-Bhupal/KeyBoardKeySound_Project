@@ -1,0 +1,25 @@
+#body{
+    background-image: url('https://images.unsplash.com/photo-1563191911-e65f8655ebf9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvbXB1dGVyJTIwa2V5Ym9hcmR8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80');
+
+
+}
+
+#kBContainer{
+    margin: 50% auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+}
+.keyBTN{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border-width: 0;
+    background-color: rgb(0, 110, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    margin: 5px;
+    text-align: center;
+}
